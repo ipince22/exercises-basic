@@ -35,6 +35,7 @@ body {
   content: "\2660";
   color: black;
 }
+
 .card.club:before, .card.club:after {
   content: "\2663";
   color: black4;
